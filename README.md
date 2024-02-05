@@ -10,17 +10,17 @@ git clone https://github.com/your-username/TacoTownRecipes.git
 2. Navigate to the project directory:
 bash
 Copy code
-cd TacoTownRecipes
+`cd TacoTownRecipes`
 
 3. Install dependencies:
 bash
 Copy code
-npm install
+`npm install`
 
 4. Run the application:
 bash
 Copy code
-npm start
+`npm start`
 
 5. Open your browser and go to http://localhost:3000 to explore the TacoTownRecipes app.
 
