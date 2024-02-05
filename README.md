@@ -39,4 +39,4 @@ If you have any improvements or feature suggestions, feel free to open an issue 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes.
 
-Happy taco exploring! 🌮
+**Happy taco exploring! 🌮**
