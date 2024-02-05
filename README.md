@@ -2,27 +2,28 @@
 Welcome to TacoTownRecipes, a web application built with Express.js and EJS that allows you to explore and discover delicious taco recipes. Choose your favorite taco ingredient - chicken, beef, or fish - and get the detailed recipe instantly.
 
 ## Getting Started
-Clone the repository:
+1. Clone the repository:
 
 bash
 Copy code
 git clone https://github.com/your-username/TacoTownRecipes.git
-Navigate to the project directory:
+
+2. Navigate to the project directory:
 
 bash
 Copy code
 cd TacoTownRecipes
-Install dependencies:
+3. Install dependencies:
 
 bash
 Copy code
 npm install
-Run the application:
+4. Run the application:
 
 bash
 Copy code
 npm start
-Open your browser and go to http://localhost:3000 to explore the TacoTownRecipes app.
+5. Open your browser and go to http://localhost:3000 to explore the TacoTownRecipes app.
 
 ## Usage
 * Click on the emoji buttons (🍗, 🥩, 🐟) to choose your favorite taco ingredient.
