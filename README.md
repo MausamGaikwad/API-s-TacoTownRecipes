@@ -37,6 +37,6 @@ Copy code
 If you have any improvements or feature suggestions, feel free to open an issue or create a pull request. Contributions are welcome!
 
 ## License
-This project is licensed under the [LICENSE](MIT License). Feel free to use, modify, and distribute the code for your own purposes.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes.
 
 Happy taco exploring! 🌮
