@@ -25,8 +25,8 @@ npm start
 Open your browser and go to http://localhost:3000 to explore the TacoTownRecipes app.
 
 ## Usage
-Click on the emoji buttons (🍗, 🥩, 🐟) to choose your favorite taco ingredient.
-View the detailed recipe including ingredients and preparation instructions.
+* Click on the emoji buttons (🍗, 🥩, 🐟) to choose your favorite taco ingredient.
+* View the detailed recipe including ingredients and preparation instructions.
 ## Technologies Used
 * Express.js
 * EJS (Embedded JavaScript)
