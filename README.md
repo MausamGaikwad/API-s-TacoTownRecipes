@@ -1,7 +1,7 @@
 ## TacoTownRecipes
 Welcome to TacoTownRecipes, a web application built with Express.js and EJS that allows you to explore and discover delicious taco recipes. Choose your favorite taco ingredient - chicken, beef, or fish - and get the detailed recipe instantly.
 
-Getting Started
+# Getting Started
 Clone the repository:
 
 bash
